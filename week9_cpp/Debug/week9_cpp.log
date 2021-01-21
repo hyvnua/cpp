@@ -1,0 +1,5 @@
+﻿  ex1.cpp
+  ex2.cpp
+  코드를 생성하고 있습니다...
+  C:\Users\NEW2019\source\repos\week9_cpp\week9_cpp\ex1.cpp(17) : error C4716: 'main3': 값을 반환해야 합니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe"이(가) 종료되었습니다(코드: 2).
